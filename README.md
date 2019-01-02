@@ -2,7 +2,7 @@
  ## Final Project - Program Structures and Algorithms ( INFO 6205 ) <br/>
 
 ### Problem Description
-Creating Football fixture (EPL Fixtures) using Genetic Algorithm. Genetic Algorithm is a method of solving optimisation problem inspired by natural selection where fittest  individual are selected for mating in order to produce healthy new generation. <br/>
+Creating Football fixture (EPL Fixtures) using Genetic Algorithm. Genetic Algorithm is a method of solving optimization problem inspired by natural selection where fittest  individual are selected for mating in order to produce a healthy new generation. <br/>
 Operators in Genetic Algorithm <br/>
 * Initial Population <br/>
 * Fitness Function <br/>
@@ -17,7 +17,7 @@ While scheduling fixtures Following criteria are being satisfied: <br/>
 * Two matches cannot take place on the same day and same location <br/>
 * A team cannot play 2 matches on the same day <br/>
 
-####  Parallel processing is done in project to initialize initital population.
+####  Parallel processing is done in project to initialize initial population.
 
 
 ### How to run the program <br/>
